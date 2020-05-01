@@ -1,0 +1,29 @@
+$git clone <url>
+clones repository from github to the local repository in the computer
+
+$git merge <branch name>
+to merge the <branch name> to the current working branch
+
+$git pull <url>
+to pull the recent most repository
+
+$git commit -m "<messages>"
+to commit the changes
+
+$git remote
+shows the name from where it came from
+
+$git branch <name>
+to create new branch
+
+$git status
+helps to check the status of the working tree
+
+$git checkout -b <branch name>
+to switch the branch <name> that was created before
+
+$git add <file name>
+to add files
+
+$git push <origin> <branch name>
+pushes the branch to the remote repository 
